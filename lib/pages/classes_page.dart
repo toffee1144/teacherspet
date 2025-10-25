@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../services/api_client.dart';
 
-const kBaseUrl = 'http://72.60.79.89'; // ganti ke domain/tunnel kamu
+const kBaseUrl = 'http://72.60.79.89:5005'; // ganti ke domain/tunnel kamu
 
 class ClassesPage extends StatefulWidget {
   const ClassesPage({super.key});

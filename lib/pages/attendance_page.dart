@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
 // ================== CONFIG ==================
-const kBaseUrl = 'http://72.60.79.89';
+const kBaseUrl = 'http://72.60.79.89:5005';
 const int kClassId = 1; // id kelas A10/10A di DB kamu
 
 // ================== MODELS ==================

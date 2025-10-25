@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
 /// ================== CONFIG ==================
-const String kApiBase = 'http://72.60.79.89';
+const String kApiBase = 'http://72.60.79.89:5005';
 /// ============================================
 
 class DashboardPage extends StatefulWidget {
